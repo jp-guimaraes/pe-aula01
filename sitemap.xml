@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/home/intro/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/home/problema1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/home/problema2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/home/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/pe-aula01/tags/</loc>
   </url>
-  
 </urlset>
